@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Santu
 
 ## About Me
-🚀 Web & AI bot Developer passionate about creating meaningful solutions
+🚀 Web & AI bot Developer. passionate about creating meaningful solutions
 🌱 Currently learning about AI bot development
 💡 Always excited to collaborate on innovative projects
 
@@ -12,4 +12,4 @@
 - Tools: Git, VS Code
 
 ## Featured Projects
-### 🌟 Comming Soon (AI Based)
+### 🌟 Coming Soon (AI Based)
